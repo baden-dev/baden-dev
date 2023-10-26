@@ -12,6 +12,7 @@
 - 📫 Feel free to reach out to me on LinkedIn: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bahja-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahja-adan)
 - ⚡ Fun fact: I've recently developed an interest in classical music, and my current favorite piece is 'The Swan' by Camille Saint-Saëns. It's incredibly soothing. Listen to it on &nbsp; [![Youtube Badge](https://img.shields.io/badge/TheSwan-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=b44-5M4e9nI) .
 
+<!-- Languages and Tools section -->
 ***
 ### 🛠 &nbsp;Languages and Tools :
 <div>
@@ -31,12 +32,8 @@
     </p>
 </div>
 
+<!-- My Stats section -->
 ***
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baden-dev&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=baden-dev&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baden-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-
