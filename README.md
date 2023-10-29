@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there! I'm Bahja </h2>
+<h2 align="center">👋 Hi there! I'm Bahja </h2>
 
 <div id="header" align="center"> <img alt="GIF" src="./code.gif" width="600" height="300" /> </div>
  
