@@ -8,7 +8,7 @@
 ### 👩‍💻 &nbsp;About Me :
 ✨ I'm a recent graduate and aspiring software engineer who is passionate about technology and eager to learn new things.
 - 🔭 I'm currently working on an AR Year Book.
-- 🌱 I'm actively expanding my knowledge in Java and SpringBoot.
+- 🌱 I'm actively expanding my knowledge in Java, Spring Boot and APIs.
 - 📫 Feel free to reach out to me on LinkedIn: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bahja-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bahja-adan)
 - ⚡ Fun fact: I've recently developed an interest in classical music, and my current favorite piece is 'The Swan' by Camille Saint-Saëns. It's incredibly soothing. Listen to it on &nbsp; [![Youtube Badge](https://img.shields.io/badge/TheSwan-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=b44-5M4e9nI) .
 
